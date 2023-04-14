@@ -1,7 +1,7 @@
 # Ussd Webhook Documentation
 ## A call back url for a Ussd Remote menu for our tenant clients
 
-Welcome to a documentation ....
+Welcome to a documentation on how you can implement your callback url that will receive the request body and return the response body of the format below
 
 ### POST request headers
 
@@ -36,3 +36,10 @@ Welcome to a documentation ....
   }
 }
 ```
+
+
+### Postman Screenshot
+![Test your app](postman.jpg "Postman Screenshot")
+
+#### ONTECH SOLUTIONS
+#### https://ontech.co.zm
